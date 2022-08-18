@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0bac9c"],{3966:function(n,c,l){"use strict";l.r(c);var u=function(){var n=this,c=n._self._c;return c("div",[n._v("我是商品管理页面")])},a=[],e={name:"Mall"},t=e,s=l("2877"),i=Object(s["a"])(t,u,a,!1,null,null,null);c["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0bac9c.651f2f78.js.map
