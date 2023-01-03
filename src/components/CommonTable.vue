@@ -64,6 +64,6 @@ export default {
 .pager {
   position: absolute;
   bottom: 0;
-  right: 20px;
+  right: 50px;
 }
 </style>
